@@ -1,5 +1,5 @@
 This is a boilerplate project for creating a 'Microfrontend Application'.
-Watch this video tutorial to learn more:
+Watch this tutorial video to learn more:
 ...
 
 ## Available Scripts
